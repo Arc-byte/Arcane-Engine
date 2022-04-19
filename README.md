@@ -1,6 +1,6 @@
 # Arcane-Engine
 A text-based game and game engine written in HTML, JS, and CSS.
-This is the release branch. To contribute, head to the development branch.
+This is the development branch. For the current working build, head to the main branch.
 
 ### TODO
 
